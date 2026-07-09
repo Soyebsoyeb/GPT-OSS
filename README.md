@@ -21,7 +21,7 @@
   <a href="#references">References</a>
 </p>
 
-[Validation Loss of GPT-OSS](assets/val-loss.png)
+![Validation Loss of GPT-OSS](assets/val-loss.png)
 
 </div>
 
