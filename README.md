@@ -21,7 +21,11 @@
   <a href="#references">References</a>
 </p>
 
-![Validation Loss of GPT-OSS](assets/val-loss.png)
+
+<div class="val-loss-img">
+    <img src="assets/val-loss.png" alt="Validation Loss of GPT-OSS vs GPT2" 
+         onerror="this.style.display='none'; this.parentElement.innerHTML='<div class=img-placeholder><i class=fas fa-image></i><span>Validation Loss Chart</span><span style=font-size:0.8rem;color:#6b7f96;>assets/val-loss.png</span></div>';" />
+</div>
 
 </div>
 
