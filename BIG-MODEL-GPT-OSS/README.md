@@ -241,7 +241,7 @@ If you use this codebase in your research or work, please cite:
   title  = {{An Open-Source Implementation of gpt-oss-20b}},
   month  = {September},
   year   = {2025},
-  url    = {https://github.com/Soyebsoyeb/GPT-OSS/blob/main/BIG-MODEL-GPT-OSS}
+  url    = {https://github.com/Soyebsoyeb/GPT-OSS/tree/main/BIG-MODEL-GPT-OSS}
 }
 ```
 
