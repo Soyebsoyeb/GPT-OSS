@@ -237,11 +237,11 @@ If you use this codebase in your research or work, please cite:
 
 ```bibtex
 @software{Vizuara_GPT-OSS_Replication_2025,
-  author = {Naman and Dr. Raj Dandekar},
+  author = {MD Soyeb Hoque},
   title  = {{An Open-Source Implementation of gpt-oss-20b}},
   month  = {September},
   year   = {2025},
-  url    = {https://github.com/OmuNaman/gpt-oss}
+  url    = {https://github.com/Soyebsoyeb/GPT-OSS//BIG-MODEL-GPT-OSS}
 }
 ```
 
