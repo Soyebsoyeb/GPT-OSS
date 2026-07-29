@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Nano-GPT-OSS
+#  Nano-GPT-OSS
 
 **A compact, research-oriented reimplementation of a GPT-OSS-style transformer, combining Mixture-of-Experts routing, sliding-window attention, and rotary embeddings for efficient LLM training and inference.**
 
